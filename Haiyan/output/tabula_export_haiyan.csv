@@ -1,12 +1,7 @@
 REGION/PROVINCE	MUNICIPALITY/BARANGAY	Name	Age / Sex	Address	Cause / Date / Remarks
-Region IV-A	3				
-Quezon	2				
 Quezon	1	Capuno, John Erwin Orriza	27 / M	Sariaya, Quezon	Hit by  a fallen tree while riding a motorcycle
 Quezon	1	Perez, Sherwin	34 / M	Dagatan, Dolores, Quezon	Drowning
-Batangas	1				
 Batangas	1	Peliciano, Roberto	58 / M	Bauan, Batangas	Drowning
-Region IV-B	19				
-Palawan	19				
 Palawan	1	Amante, Albert	22 / M	Busuanga, Palawan	
 Palawan	1	Argamo, Carlito	35 / M	Misamis Occidental	Drowned in Palawan
 Palawan	2	Baby Boy Carpiano (twins)	4-day old	Brgy. Malawig, Coron, Palawan	Hypothermia
@@ -25,18 +20,12 @@ Palawan	1	Roxas, Nicanor Alon	45/M	Brgy. Tiza, Culion, Palawan	Fell from the bri
 Palawan	1	Salignon, Cresencio S.	96 / M	Brgy. Guadalupe, Coron, Palawan	Hit by an uprooted tree (Cervical fracture)
 Palawan	1	Sapalicio, Leonardo	50 / M		Drowned. Aboard FBCA Cheska 2 that capsized on or about 9:30 PM, 08 November 2013
 Palawan	1	Serafino, Rufino	38 / M	Brgy 2, Coron, Palawan	Found dead along the shoreline of Brgy New Busuanga, Busuanga, Palawan
-Region V	6				
-Albay	1				
 Albay	1	Cervantes, Nelson	17 / M	Morena, Guinobatan, Albay	Electrocution
-Masbate	4				
 Masbate	1	Deinla, Enex	15 / M	Fabmar St., District II, San Jacinto	Electrocution / 7 Nov
 Masbate	1	Geroldo, Bajar	8 / M	San Juan, Mandaon	Hit by fallen tree
 Masbate	1	Lumbao, Dominador	72 / M	Tabuk, Pio V Corpus	Laceration with rib fracture
 Masbate	1	Solasco, Conchita	70 / F	Alegria, Pio V Corpus	Chest injury to concrete wall collapse
-Camarines Norte	1				
 Camarines Norte	1	Alarzan, Marivic	17 / F	Lanot, Mercedes, Camarines Norte	
-Region VI	294				
-Iloilo	179				
 Iloilo	1	Abañez, Ronilo		Lonoy, Estancia	
 Iloilo	1	Abilita, Pelagio		Tupaz, Carles	Drowned
 Iloilo	1	Agpalo, Joey	27 / M	Brgy. Zerrudo, Sara, Iloilo	Previously reported as Mr. Baloran
@@ -47,7 +36,6 @@ Iloilo	1	Alvarez, Jayson	22 / M	Brgy. San Luis, Sara
 Iloilo	1	Alvarez, Roben Casador		Estancia, Iloilo	
 Iloilo	1	Andales, Jennifer Jaleke	F	Brgy. Binon-an, Batad	Hypothermia
 Iloilo	1	Andola, Pedro	75 / M	Dueñas, Iloilo	
-Iloilo					
 Iloilo	1	Andres, Michael John		Tabugon, Carles	
 Iloilo	1	Antonio, Ceasar	82 / M	Nipa, San Dionisio	
 Iloilo	1	Apura, Jolyn Joy	19 / F	Lemery	Previously reported as Apura, Deolyn Joy
@@ -119,7 +107,6 @@ Iloilo	1	Ibañez, Eremelio		Bayas, Estancia
 Iloilo	1	Juarez, Jesus		Carles, Iloilo	
 Iloilo	1	Jumawan, Harold		Pantalan, Carles	Drowned
 Iloilo	1	Jumawan, Joemil		Pantalan, Carles	Drowned
-Iloilo					
 Iloilo	1	King, Siote		Asluman, Carles	Drowned
 Iloilo	1	Labrador, Adelina	63 / F	Brgy. Aglalana, Passi City	Cardio-Pulmonary Arrest
 Iloilo	1	Lacrete, Jerry		Concepcion, Iloilo	
@@ -190,14 +177,12 @@ Iloilo	1	Tulio, Jose	M	Poblacion, San Dionisio
 Iloilo	23	Unidentified		Estancia, Iloilo	Certification issued by DOH. Mass grave in Estancia Municipal Cemetery
 Iloilo	1	Valencia, Candido		Estancia, Iloilo	
 Iloilo	1	Valencia, Ramel		Estancia, Iloilo	
-Iloilo					
 Iloilo	1	Velarde,  Vicente		Estancia, Iloilo	
 Iloilo	1	Villanueva, Rogelio Borre	65 / M	Brgy. Salong, Batad	
 Iloilo	1	Villarit, Rickey		Pidada, Ajuy	Drowned
 Iloilo	1	Villasis, Edwin		San Roque, Estancia Iloilo	
 Iloilo	1	Villceran, Kenz		Botongon, Estancia	
 Iloilo	1	Villejo, Wilfredo	40 / M	Odiongan, San Dionisio	
-Aklan	14				
 Aklan	1	Aquino, Baldomero Ungos	84 / M	Poblacion, New Washington, Aklan	Cardiac arrest secondary to Myocardial Infraction
 Aklan	1	Bautista, Danilo	46 / M	Camansi, Bataan	Hit by a GI sheet on the head (previously reported injured)
 Aklan	1	Bernabe, Sofia S.	90 / F	Agcawilan, Lezo, Aklan	Cardio pulmonary arrest
@@ -212,7 +197,6 @@ Aklan	1	Orbista, Eldefonzo	67 / M	Canhawan, Libacao, Aklan	Nervous breakdown (Ca
 Aklan	1	Pera, Renz O.	2 / M	Sibalew, Libacao, Aklan	Hit by  a fallen tree
 Aklan	1	Ricaforte, Joel	64 / M	Polocate, Banga	Cardio respiratory arrest
 Aklan	1	Yulo, Igoy Yabut	60/M	Tambuan, Malinao, Aklan	Head injury and electrocution (previously reported as Yabut, Yulo I.)
-Capiz	86				
 Capiz	1	Adolfo, Liberato	64 / M	Boulevard, Roxas City, Capiz	Toppled down by hollow blocks (previously reported as Liberato, Adolfo)
 Capiz	1	Almodiente, Erbie John	1 / M	Bantigue, Panay, Capiz	Drowned (previously reported as Akmodiente, Arvie John)
 Capiz	1	Almodiente, Febie	18 / F	Bantigue, Panay, Capiz	Drowned
@@ -249,7 +233,6 @@ Capiz	1	Buriel, Rufa	23 / F	Bantigue, Panay, Capiz	Drowned
 Capiz	1	Carpena, Jun jun	24 / M	Olotayan, Roxas City, Capiz	Hit with an angle bar on the neck
 Capiz	1	Casabon, Jaime	M	Malapad Cogon, Sigma	Cardiac arrest
 Capiz	1	Celoso, Vevencio	63 / M	Quinabcaban, Dao, Capiz	Toppled down by galvanized roof
-Capiz					
 Capiz	1	Cirilos, Diana		Brgy. Dulangan, Pilar	Toppled down by hollow blocks
 Capiz	1	Cortel, Julieta	88 / F	Adlawan, Roxas City	Acute myocardial infarction
 Capiz	1	Crispolon, Enirie	1 y/o Male	Binaobawan, Pilar	Asphyxia by drowning
@@ -300,7 +283,6 @@ Capiz	1	Varnal, Enrico O.	65 / M	Basiao, Ivisan	Blunt injury(pinned by tree) to 
 Capiz	1	Villanueva, Adoracion A.	85 / F	Candual, Panay, Capiz	Vascular heart disease
 Capiz	1	Villareaz, Lyca B.	5 / F	Bantique, Panay, Capiz	Drowned
 Capiz	1	Vivencio, Celoso	63 / M	Quinabcaban, Dao	Intracranial Hemorrhage
-Antique	13				
 Antique	1	Awayan, Dionisio	M	Talisay, Pandan	Multiple physical injury
 Antique	1	Berto, Reynold	M	Laua-an	
 Antique	1	Custodio, Romeo	70 / M	Capuyoaon, Barbaza, Antique	Blown by the wind and hit by a hard object
@@ -314,11 +296,8 @@ Antique	1	Quiruno, Lojerea	37 / M	Poblacion, Sebaste
 Antique	1	Sadje, Edgardo Jr.	15 / M	Sitio Tarog, Igbalangao, Bugasong	
 Antique	1	Sadje, Elvie	44 / F	Sitio Tarog, Igbalangao, Bugasong	
 Antique	1	Torres, Rosalie A.	37 / F	Centro Poblacion, Culasi	
-Negros Occidental	2				
 Negros Occidental	1	Daolong, Dominador	57 / M	Cauayan	Drowning due to flashflood
 Negros Occidental	1	Pautan, Inocencia	68 / F	Poblacion 2, Sagay City	Cardio pulmonary arrest
-Region VII	74				
-Cebu	73				
 Cebu	1	Abello, Dionesio	66 / M	Bantayan	
 Cebu	1	Alburo, Belinda Lepaopao	38 / M	Bogo City	
 Cebu	1	Alon, Arturo	40 / M	Bantayan	
@@ -383,15 +362,11 @@ Cebu	1	Ursabia, Beatriz Avenido	60 / F	Bogo City	Tetanus Infection
 Cebu	1	Villaceran, William	41 / M	San Remigio	
 Cebu	1	Villarosa (daughter of Vicente Villarosa)		Sta. Fe	
 Cebu	1	Villarosa, Rolly Guidacan	22 / M	Bantayan	Previously reported as Villarosa, Roy Guidacan
-Cebu					
 Cebu	2	Unidentified		Bantayan	
 Cebu	3	Unidentified		Daanbantayan	
 Cebu	1	Unidentified		Pilar	
 Cebu	3	Unidentified		San Francisco, Camotes	
-Bohol	1				
 Bohol	1	Pelonia, Raffy	23 / M	Guindulman	Crew of Toger Shipping Company. Body found on 09 Nov
-Region VIII	5895				
-Eastern Samar	267				
 Eastern Samar	1	Abejo, Conchita	80 / F	San Miguel, Balangiga	
 Eastern Samar	1	Adricula, Kuisa Dado	66 / F	Poblacion 1, Balangiga	
 Eastern Samar	1	Alvarina, Edna	44 / F	San Miguel, Balangiga	
@@ -456,7 +431,6 @@ Eastern Samar	1	Macajito, Alexander C.	2 / M	Poblacion 5, Quinapondan
 Eastern Samar	1	Macawile, Arnel D.	24 / M	Anislag, Quinapondan	
 Eastern Samar	1	Ogsimer, Jaime	55 / M	Mabini, Quinapondan	
 Eastern Samar	1	Balais, Lester	5 / M	3 Poblacion, Giporlos	
-Eastern Samar					
 Eastern Samar	1	Biong, Leocadio	74 / M	6 Poblacion, Giporlos	
 Eastern Samar	1	Abayan, Quirona F.	72 / F	7 Poblacion, Giporlos	
 Eastern Samar	1	Bagulaya, Jun S.	38 / M	Gigese, Giporlos	
@@ -528,7 +502,6 @@ Eastern Samar	1	Mansang, Isabel	70 / F	Guiuan	Previously reported unidentified
 Eastern Samar	1	Marquez, Mekay	25 / F	Guiuan	Previously reported unidentified
 Eastern Samar	1	Nadonza, Castor	62 / M	Guiuan	Previously reported unidentified
 Eastern Samar	1	Nadonza, Junjun	4 / M	Guiuan	Previously reported unidentified
-Eastern Samar					
 Eastern Samar	1	Nadonza, Melinda	23 / F	Guiuan	Previously reported unidentified
 Eastern Samar	1	Odullo, Esrella	F	Guiuan	Previously reported unidentified
 Eastern Samar	1	Ogardo Mercedes	70 / F	Guiuan	Previously reported unidentified
@@ -575,7 +548,6 @@ Eastern Samar	72	Unidentified		Hernani
 Eastern Samar	1	Unidentified		Mercedes	
 Eastern Samar	1	Unidentified		Balangiga	
 Eastern Samar	8	Unidentified		Borongan	
-Leyte	5395				
 Leyte	1	Abadines, Ma. Nalda	78	Milagrosa, Alang-Alang	Previously reported unidentified
 Leyte	1	Adarna, Archie	26	Lourdes, Alang-Alang	Previously reported unidentified
 Leyte	1	Aguilar, Caridad	78	Dapdap, Alang-Alang	Previously reported unidentified
@@ -671,7 +643,6 @@ Leyte	37	Unidentified		Ormoc City
 Leyte	33	Unidentified		Abuyog	
 Leyte	11	Unidentified		Albuera	
 Leyte	2671	Unidentified		Tacloban City	
-Leyte					
 Leyte	2	Unidentified		Baybay City	
 Leyte	9	Unidentified		Babatngon	
 Leyte	2	Unidentified		Barugo	
@@ -743,8 +714,6 @@ Leyte	1	Abarracoso, Alma		Baras, Palo	Previously reported unidentified
 Leyte	1	Abarracoso, Beverly		Baras, Palo	Previously reported unidentified
 Leyte	1	Abejuiro, Arnulfo Jr.		Baras, Palo	Previously reported unidentified
 Leyte	1	Abejuiro, Arnulfo Sr.		Palo	Previously reported unidentified
-Leyte					
-1 r	Abrantes, Aurora		Salvacion, Palo	Previously reported unidentified	
 1 r	1	Abrantes, Constantino		Salvacion, Palo	Previously reported unidentified
 1 r	1	Acebedo, Josiemel		Baras, Palo	Previously reported unidentified
 1 r	1	Acedillo, Erlinda		Baras, Palo	Previously reported unidentified
@@ -815,7 +784,6 @@ Leyte
 1 r	1	Aspina, Arabelle		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Astepon, Mylene			Previously reported unidentified
 1 r	1	Avestruz, Rowena		Salvacion, Palo	Previously reported unidentified
-1 r					
 1 r	1	Avila, Myra		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Bacatio, Salvacion		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Bachaohino, Crecencio		Candahug, Palo	Previously reported unidentified
@@ -887,7 +855,6 @@ Leyte
 1 r	1	Briso, Tito		Candahug, Palo	Previously reported unidentified
 1 r	1	Budlong, Aricia		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Cabanatan, Lito		Palo	Previously reported unidentified
-1 r					
 1 r	1	Cabarubias, Alaysa		Baras, Palo	Previously reported unidentified
 1 r	1	Cabarubias, Julian		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Cabarubias, Lydia		San Joaquin, Palo	Previously reported unidentified
@@ -959,7 +926,6 @@ Leyte
 1 r	1	Clarin, Atty. Evaristo		Baras, Palo	Previously reported unidentified
 1 r	1	Co, Jaime		Candahug, Palo	Previously reported unidentified
 1 r	1	Cobacha, Byron		San Joaquin, Palo	Previously reported unidentified
-1 r					
 1 r	1	Cobacha, Erol		Baras, Palo	Previously reported unidentified
 1 r	1	Cobacha, Floredin		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Cobacha, Leandro		San Joaquin, Palo	Previously reported unidentified
@@ -1031,7 +997,6 @@ Leyte
 1 r	1	Duque, Eliza		Baras, Palo	Previously reported unidentified
 1 r	1	Duque, Odilom		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Duque, Rizza		Baras, Palo	Previously reported unidentified
-1 r					
 1 r	1	Duque, Sheryl		Palo	Previously reported unidentified
 1 r	1	Durana, Lorie		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Durana, Lourdes		San Joaquin, Palo	Previously reported unidentified
@@ -1103,7 +1068,6 @@ Leyte
 1 r	1	Grace		Candahug, Palo	Previously reported unidentified
 1 r	1	Hernani, Lorna		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Hert, Bieny		San Joaquin, Palo	Previously reported unidentified
-1 r					
 1 r	1	Hijada, Davi Jun		San Fernando, Palo	Previously reported unidentified
 1 r	1	Homeres, Julie		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Ibañez, Rodolfo		Baras, Palo	Previously reported unidentified
@@ -1175,7 +1139,6 @@ Leyte
 1 r	1	Magbanua, Leomar		Baras, Palo	Previously reported unidentified
 1 r	1	Magbanua, Mary Joy		Baras, Palo	Previously reported unidentified
 1 r	1	Magbanua, Patrisima		Baras, Palo	Previously reported unidentified
-1 r					
 1 r	1	Magnawa, Kurita		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Malbas, Fredeswinda		Cavite East, Palo	Previously reported unidentified
 1 r	1	Maraya, Ariane Joy		San Joaquin, Palo	Previously reported unidentified
@@ -1247,7 +1210,6 @@ Leyte
 1 r	1	Noya, Edwina		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Noya, Jen-jen		Baras, Palo	Previously reported unidentified
 1 r	1	Odquin, Kimberly		San Fernando, Palo	Previously reported unidentified
-1 r					
 1 r	1	Odquin, Monica		San Fernando, Palo	Previously reported unidentified
 1 r	1	Olahay, Abegail		Candahug, Palo	Previously reported unidentified
 1 r	1	Olahay, Cherry		Candahug, Palo	Previously reported unidentified
@@ -1319,7 +1281,6 @@ Leyte
 1 r	1	Pongos, Pidio		Baras, Palo	Previously reported unidentified
 1 r	1	Porcia, Teresa		San Joaquin, Palo	Previously reported unidentified
 1 r	1	Portillo, Lilia		Baras, Palo	Previously reported unidentified
-1 r					
 1 r	1	Portugal, Emmanuel		Candahug, Palo	Previously reported unidentified
 1 r	1	Pulga, Romulo		Salvacion, Palo	Previously reported unidentified
 1 r	1	Pulgar, Alrin		Candahug, Palo	Previously reported unidentified
@@ -1391,7 +1352,6 @@ Leyte
 1 r	1	Tañola, Roweno Jr.		Baras, Palo	Previously reported unidentified
 1 r	1	Tapales, Benden		Palo	Previously reported unidentified
 1 r	1	Tapales, Weng		Teraza, Palo	Previously reported unidentified
-1 r					
 1 r	1	Tayobong, Agnes		Baras, Palo	Previously reported unidentified
 1 r	1	Tayobong, Princess Izzy		Baras, Palo	Previously reported unidentified
 1 r	1	Tibi, Evelyn		San Joaquin, Palo	Previously reported unidentified
@@ -1463,7 +1423,6 @@ Leyte
 1 r	10	Unidentified		Pastrana	
 1 r	2	Unidentified		San Isidro	
 1 r	11	Unidentified		Sta. Fe	
-1 r					
 1 r	1	Baay, Teodolo	38 / M	Villaba	Previously reported unidentified
 1 r	1	Bantosila, Vicente D.	60 / M	Villaba	Previously reported unidentified
 1 r	1	Buscagan, Juana	88 / F	Villaba	Previously reported unidentified
@@ -1474,7 +1433,6 @@ Leyte
 1 r	1	Sulad, Ezperanza	64 / F	Villaba	Previously reported unidentified
 1 r	4	Unidentified		Villaba	
 1 r	3	Unidentified		Merida	
-Samar	225				
 Samar	1	Balbada, Crispina		Amantillo, Marabut	
 Samar	1	Grefiel, Conchita		Catalo, Marabut	
 Samar	1	Francisco Natividad		Ferreras, Marabut	
@@ -1606,7 +1564,6 @@ Samar	1	Olimberio, Sotera	F	Salvacion, Basey
 Samar	1	Papiona, Siniplicio	M	Salvacion, Basey	
 Samar	1	Paradel, Rosalie	F	Salvacion, Basey	
 Samar	1	Quilitano, Nalding	M	Salvacion, Basey	
-Samar					
 Samar	1	Baclea on, Luis	M	Burgos, Basey	
 Samar	1	Olfindo, Corita	F	Burgos, Basey	
 Samar	1	Pascual, Cesar	M	Burgos, Basey	
@@ -1616,27 +1573,15 @@ Samar	1	Maninantan, Anacia	F	Mercado, Basey
 Samar	1	Oñate Sr., Rogelio F.	M	San Fernando, Basey	
 Samar	82	Unidentified		Basey	
 Samar	5	Unidentified		Marabut	
-Biliran		8			
 Biliran	2	Unidentified		Other Municipality	
 Biliran	1	Unidentified		Cabucgayan	
 Biliran	5	Unidentified		Naval	
-Region IX	1				
-Zamboanga City	1				
 Zamboanga City	1	Bucoy, Regie Francisco	2 / M	Brgy. Lanzones, Zamboanga City	Struck by lightning / 7 Nov
-Region XIII	1				
-Surigao del Sur	1				
 Surigao del Sur	1	Bueno, Jimmy	56 / M	Purok 3, Brgy. Poblacion, Lingig, Surigao del Sur	Electrocution / 7 Nov (previously reported as Jimmy Cabilan)
-GRAND TOTAL	28689	INJURED			
-GRAND TOTAL					
-Region IV-A	4				
-Quezon	3				
 Quezon	1	Melles, Eric Yagon	26 / M	San Lucas, San Pablo City	Hit by a fallen tree
 Quezon	1	Mendez, Asuzena	62 / F	Mulanay, Quezon	Hit by a fallen tree
 Quezon	1	Mendez, Harold	7 / M	Mulanay, Quezon	Hit by a fallen tree
-Batangas	1				
 Batangas	1	Rada, Allan	M	Bauan, Batangas	
-Region IV-B	61				
-Palawan	61				
 Palawan	1	Alario, Joel		Culion, Palawan	
 Palawan	1	Albania, Jacinto		Culion, Palawan	
 Palawan	1	Albert Pacul	37 / M	Busuanga, Palawan	Punctured wound
@@ -1676,7 +1621,6 @@ Palawan	1	Macanas, Francis	19 / M	Busuanga, Palawan	Punctured wound
 Palawan	1	Manlavi, Regie		Culion, Palawan	
 Palawan	1	Mantama, Kristal	11 / F	Busuanga, Palawan	Punctured wound
 Palawan	1	Mape, Rowen	3 / M	Agutaya, Palawan	Lacerated wound upper thigh
-Palawan					
 Palawan	1	Marimon, Jessie		Culion, Palawan	
 Palawan	1	Mayo, Elacio	52 / M	Busuanga, Palawan	Lacerated wound
 Palawan	1	Orlan Macmac		Culion, Palawan	
@@ -1699,8 +1643,6 @@ Palawan	1	Ubay, Leonardo		Culion, Palawan
 Palawan	1	Umpad, Gerald	16 / M	Busuanga, Palawan	Punctured wound
 Palawan	1	Yala, Albert	11 / M	Busuanga, Palawan	Wound abscess
 Palawan	1	Zamora, Edwin		Culion, Palawan	
-Region V		21			
-Camarines Sur	10				
 Camarines Sur	1	Baranuelo, Alfredo	32 / M	Sabang, San Jose, Camarines Sur	Due to storm surge / 08 Nov
 Camarines Sur	1	Berunio, Eddie	54 / M	Bulalacao, Presentacion	
 Camarines Sur	1	Cleodes, Jocelyn	50 / F	Sabang, San Jose, Camarines Sur	Due to storm surge / 08 Nov
@@ -1711,21 +1653,17 @@ Camarines Sur	1	Ferran, Jessica	17 / F	Sabang, San Jose, Camarines Sur	Due to st
 Camarines Sur	1	Lonzaga, Edito	50 / M	Presentacion	
 Camarines Sur	1	Pagal, Rogeria	64 / F	Sabang, San Jose, Camarines Sur	Due to storm surge / 08 Nov
 Camarines Sur	1	Reyna, Bonifacio	43 / M	Colacling, Lupi, Camarines Sur	Hit by a fallen tree / 08 Nov
-Masbate	5				
 Masbate	1	Amante, Rommel	14 / M	San Fernando, Masbate	Lacerated wound, right arm and right thigh secondary to fallen chandelier
 Masbate	1	Capinig, Marlon	30 / F	Nursery Masbate	Lacerated wound at the left forearm
 Masbate	1	Dela Pena, Jonathan	36 / M	Maingaran, Masbate City	T/C Spinal injury
 Masbate	1	Gelito, Jennyniah	9 months/F	Poblacion, Mobo, Masbate	Lacerated wound, forehead secondaryto falling object
 Masbate	1	Luzong, Joan	15 / F	Purok 6, Poblacion	Lacerated wound left shoulder
-Sorsogon	6				
 Sorsogon	1	Docog, Richard	35 / M	Bacon,Sorsogon	
 Sorsogon	1	Ergina, Lennie	31 / F	Carriedo, Gubat, Sorsogon	Dislocation of left elbow
 Sorsogon	1	Jayco, Wiem Wilbert	45 / M	Bitan-o, Sorsogon City	Multiple abrasions, lacerated wound mandibular area
 Sorsogon	1	Lasala, Milagros	71 / F	Tugos, Sorsogon	Lacerated wound occipital area
 Sorsogon	1	Opiz, Cesar	40 / M	San Juan, Roro,  Sorsogon City	Punctured wound left foot
 Sorsogon	1	Ruzol, Arnold	35 / M	Irosin, Sorsogon	Pelvic fracture caused by fallen tree
-Region VI	2068				
-Antique	147				
 Antique	1	Abas, Joped	32 / M	Olaga, Sibalom	
 Antique	1	Adan, Eliseo	44 / M	Cubay, Barbaza	
 Antique	1	Agramon, Angelie	15 / F	Pangalcagan, Bugasong	
@@ -1817,7 +1755,6 @@ Antique	1	Luces, Engracia	54 / F	Cubay North, Bugasong
 Antique	1	Luces, Luz	51 / F	Cubay North, Bugasong	
 Antique	1	Mabaquiao, Gloria	55 / F	Brgy. Poblacion, Tibiao	
 Antique	1	Magluyan, John Mark	M	Ilauod, Bugasong	
-Antique					
 Antique	1	Magnate, Jonard	19 / M	Jinalinan, Bugasong	
 Antique	1	Maguidad, JM	M	Jinalinan, Bugasong	
 Antique	1	Manalo, Jorie	41 / M	Abiera, Sebaste	
@@ -1874,14 +1811,12 @@ Antique	1	Ysug, Pidot		Brgy. Harigi, Caluya	Previously reported missing
 Antique	1	Zafra, Andre Ryan	3 / M	Jinalinan, Barbaza	
 Antique	1	Zamora, Antonio	52 / M	Tagudtud, Bugasong	
 Antique	1	Zamora, Leonora	67 / F	Ilaures, Bugasong	
-Guimaras	6				
 Guimaras	1	Pajotea, Joelen	39 / M	So. Igsungay, Buenavista	Hit by a lightning inside their house
 Guimaras	1	Pajotea, Joelen Ray	9 / M	So. Igsungay, Buenavista	Hit by a lightning inside their house
 Guimaras	1	Pajotea, John Mark	14 / M	So. Igsungay, Buenavista	Hit by a lightning inside their house (previously reported as Bilaño, John Mar)
 Guimaras	1	Pajotea, Miloue	34 / M	So. Igsungay, Buenavista	Hit by a lightning inside their house (previously reported as Belaño, Molowe)
 Guimaras	1	Pajotea, Reynaldo  Jr.	11 / M	So. Igsungay, Buenavista	Hit by a lightning inside their house
 Guimaras	1	Pajotea, Reynaldo Sr.	39/ M	So. Igsungay, Buenavista	Hit by a lightning inside their house
-Capiz	1093				
 Capiz	1	Verde, Rolien Manuel	Male		Wound, right head
 Capiz	1	Vigo, Apolcenio	45 y/o Male		Punctured wound
 Capiz	1	Casemero, Vetiteria	46 y/o Female	Adbunod	Punctured wound, right foot
@@ -2975,7 +2910,6 @@ Capiz	1	Tambong, Liza	35 y/o Female	Poblacion Sur, Ivisan Capiz	Punctured wound
 1 D	1	Luday, Rosel	Female		Punctured wound at left sole
 1 D	1	Vera, Ruther	Female		Punctured wound at right foot
 1 D	1	Villanueva, Jocelyn	Female		Punctured wound at foot
-Aklan	726				
 Aklan	1	Abancio, Mendelina	Female	Fatima, New Washington	Punctured Wound
 Aklan	1	Abancio, Remejoy	Female	Fatima,New Washington	Abrasion
 Aklan	1	Abancio, Remelyn	15 / F	Fatima,New Wash	Punctured wound left foot
@@ -3472,7 +3406,6 @@ Aklan	1	Pamatian, Patoy	47 / M	ochando, N.Washington	Lacerated wound
 1	1	Raba, Paquito	54 / M	Salab, Batan, Aklan	Lacerated Wound
 1	1	Randoy, Johnny	48 / M	badiangan, Banga	infected wound
 1	1	RANDOY, JUAN	52 / M	BADIANGAN, BANGA	Punctured Wound
-1					
 1	1	Rano, Jessie	28 y/o Male	sibalew, libacao, aklan	punctured wound left foot
 1	1	Rano, Vicente	51 / M	guadalupe, Libacao	punctured wound left foot
 1	1	RAQUIN, JOHNNY	53 / M	MAMBOG, BANGA	Punctured Wound
@@ -3674,7 +3607,6 @@ Aklan	1	Pamatian, Patoy	47 / M	ochando, N.Washington	Lacerated wound
 1	1	ZAPICO, QUENIE	20 / F	SIBALEW, BANGA	Lacerated Wound
 1	1	Zapico, Rolly	16 / M	poblacion, libacao, aklan	punctured wound right foot
 1	1	Zapues, Rexy	41 / M	calacabian, libacao, aklan	avulsion left index finger
-1					
 1	1	Zaulda, Jesivele	27 / F	Julita, Libacao, Akaln	lacerated wound right hand
 1	1	Zaulda, Ronild	40 / M	Julita, Libacao, Akaln	punctured wound left foot
 1	1	Zolina, Remy	58 / F	Julita, Libacao, Akaln	punctured wound right foot
@@ -3704,7 +3636,6 @@ Aklan	1	Pamatian, Patoy	47 / M	ochando, N.Washington	Lacerated wound
 1	1	Zualda, Jodel	8 / M	Man-up Altavas	Punctured Wound
 1	1	Zubiaga, Elizabeth	50 / F	agmalig, libacao, aklan	lacerated wound left foot
 1	1	Zubiaga, Violeta	68 / F	alfonso XII, Libacao	punctured wound right foot
-Iloilo		12			
 Iloilo	1	Amante, Paterno		Tamis-ac, Concepcion	
 Iloilo	1	Barredo, Richard		Tamis-ac, Concepcion	
 Iloilo	1	Biorrey, Roberto	54 / M	Poblacion, Bingawan	
@@ -3717,7 +3648,6 @@ Iloilo	1	John Anthony	12 / M	Poblacion, Bingawan
 Iloilo	1	Macero, Maximo	49 / M	Brgy. Kuyot, Januiay, Iloilo	
 Iloilo	1	Roscales, Raven	7 / M	Poblacion, Bingawan	
 Iloilo	1	Salungdangit, Araceli		Tamis-ac, Concepcion	
-Negros Occidental	84				
 Negros Occidental	1	Alob, Juning		Brgy. Tiglawan, Cadiz City	
 Negros Occidental	1	Alob, Norberto		Brgy. Tiglawan, Cadiz City	
 Negros Occidental	1	Alob, Romeo		Brgy. Tiglawan, Cadiz City	
@@ -3746,7 +3676,6 @@ Negros Occidental	1	Dela Peña, Nemecio		Brgy. Tiglawan, Cadiz City
 Negros Occidental	1	Dela Peña, Nestor		Brgy. Tiglawan, Cadiz City	
 Negros Occidental	1	Dela Peña, Raffy		Brgy. Tiglawan, Cadiz City	
 Negros Occidental	1	Dela Torre, Jennelyn		Brgy. Mabini, Cadiz City	Wounded feet (amputated)
-Negros Occidental					
 Negros Occidental	1	Delator, Ninfa		Brgy. Sicaba, Cadiz City	Wounded by galvanized iron
 Negros Occidental	1	Delina, Andresita		Brgy. Tiglawan, Cadiz City	
 Negros Occidental	1	Delina, Niño		Brgy. Tiglawan, Cadiz City	
@@ -3803,8 +3732,6 @@ Negros Occidental	1	Villaraiz, Mitchelyn		Brgy. Tiglawan, Cadiz City
 Negros Occidental	1	Vito, Ricardo		Brgy. Sicaba, Cadiz City	Wounded feet (nail)
 Negros Occidental	1	Ybañez, Henry		Brgy. Tiglawan, Cadiz City	
 Negros Occidental	1	Ybañez, Jerry		Brgy. Tiglawan, Cadiz City	
-Region VII	348				
-Cebu	348				
 Cebu	1	Abao, Rany	M	Bungtod, Bogo City	
 Cebu	1	Abenata, Emel	24 / M	Cantecson Gairan, Bogo City	
 Cebu	1	Aguilar, John Benedict	4 / M	Daan Lungsod, Medellin	Lacerated wound at left foot
@@ -4027,7 +3954,6 @@ Cebu	1	Catacutan, Rizal Sr.	73 / M	Taytayan, Bogo City	Lacerated wound at right 
 1 n	1	Timpla, Nelbie	F	Nailon, Bogo City	
 1 n	1	Titoy, Grace	21 / F	Libertad, Bogo City	Punctured wound left foot
 1 n	1	Tonacao, Feta	17 / M	A. Pedroza St., Bogo City	Punctured wound right foot
-1 n					
 1 n	1	Tonacao, Maria Cecilia	43 / F	La Purisima, Bogo City	
 1 n	1	Tundag, J ani	76 / M	Daan Lungsod, Medellin	Right shoulder dislocation
 1 n	1	Ursabia, Felix	40 / M	San Vicente, Bogo City	Punctured wound at left foot
@@ -4050,8 +3976,6 @@ Cebu	1	Catacutan, Rizal Sr.	73 / M	Taytayan, Bogo City	Lacerated wound at right 
 1 n	1	Ypil, Antonio	M	Gairan Bogo City	
 1 n	1	Ypil, Lorna	F	Malingin, Bogo City	
 1 n	105	Unidentified		Madridejos	
-Region VIII		26186			
-Leyte	15672				
 Leyte	3984	Unidentified		Ormoc City	
 Leyte	13	Unidentified		Abuyog	
 Leyte	233	Unidentified		Alang Alang	
@@ -4085,7 +4009,6 @@ Leyte	107	Unidentified		Tabango
 Leyte	10	Unidentified		Tabon Tabon	
 Leyte	60	Unidentified		Tunga	
 Leyte	125	Unidentified		Villaba	
-Eastern Samar	8018				
 Eastern Samar	14	Unidentified		Borongan City	
 Eastern Samar	328	Unidentified		Balangiga	
 Eastern Samar	1	Unidentified		Balangkayan	
@@ -4098,10 +4021,8 @@ Eastern Samar	1	Unidentified		Llorente
 Eastern Samar	469	Unidentified		Mercedes	
 Eastern Samar	190	Unidentified		Quinapondan	
 Eastern Samar	782	Unidentified		Salcedo	
-Samar	2378				
 Samar	320	Unidentified		Basey	
 Samar	2058	Unidentified		Marabut	
-Biliran	118				
 Biliran	1	Unidentified		Almeria	
 Biliran	4	Unidentified		Biliran	
 Biliran	24	Unidentified		Cabucgayan	
@@ -4109,13 +4030,7 @@ Biliran	14	Unidentified		Caibiran
 Biliran	1	Unidentified		Kawyan	
 Biliran	72	Unidentified		Naval	
 Biliran	2	Unidentified		Maripipi	
-Region IX	1				
-Zamboanga City	1				
 Zamboanga City	1	Cuartocruz, Angelyn	22 / F	Brgy. Lanzones, Zamboanga City	Struck by lightning; Admitted to Zamboanga City Medical Center
-GRAND TOTAL	1061	MISSING			
-GRAND TOTAL					
-Region IV-B	24				
-Palawan	24				
 Palawan	1	Abayon, Albert		Busuanga, Palawan	Onboard missing F/B EDGIE 2
 Palawan	1	Abayon, Ricky		Busuanga, Palawan	Onboard missing F/B EDGIE 2
 Palawan	1	Alnaldo, Joel		Busuanga, Palawan	Onboard missing F/B EDGIE 2
@@ -4140,10 +4055,7 @@ Palawan	1	Libarra, Raffy	33 / M	Coron, Palawan	Crew of the capsized M/B Silbrios
 Palawan	1	Montibon, Samuel	40 / M	So. Bayo-Bayo, Brgy. Tagumpay, Coron, Palawan	Onboard on missing MBCA Apple Jean
 Palawan	1	Ramos, Jordan	20 / M	So. Bayo-Bayo, Brgy. Tagumpay, Coron, Palawan	Onboard on missing MBCA Apple Jean
 Palawan	1	Tico, Christian	19 / M	Coron, Palawan	Crew of the capsized M/B Silbrios in the vicinity of Nanga Island, Brgy. Tara, Coron Palawan on 08 November2016
-Region VI	27				
-Guimaras	1				
 Guimaras	1	Magon, Crispin	40 / M	Guimaras	Companion of Carlito Argamo
-Iloilo	10				
 Iloilo	1	Amangas, Vincent		Pantalan, Carles	
 Iloilo	1	Aspero, Rex		Concepcion	
 Iloilo	1	Asuncion, Erwin		Concepcion	
@@ -4154,13 +4066,11 @@ Iloilo	1	Mahilom, Rex		Concepcion
 Iloilo	1	Paradero, Renato		Concepcion	
 Iloilo	1	Sabarillo, Rebecca	79/F	San Miguel, Iloilo	Suspected drowned in Aganan River
 Iloilo	1	Santillan, Proferio		Concepcion	
-Antique	15				
 Antique	1	Agustin, Felipe		Culasi	
 Antique	1	Alimonsaring, Tong tong		Brgy. Harigi, Caluya, Antique	Crew members boarded a fishing banca
 Antique	1	Calinog, Jolard	19	Caluya	
 Antique	1	Calinog, Tonto		Brgy. Harigi, Caluya, Antique	
 Antique	1	Celestino, Andy		Culasi	
-Antique					
 Antique	1	Celestino, Bosing		Culasi	
 Antique	1	Celestino, JR		Culasi	
 Antique	1	Celestino, Lalio		Culasi	
@@ -4171,17 +4081,12 @@ Antique	1	Hadrevisin, Dong dong		Brgy. Harigi, Caluya, Antique
 Antique	1	Martinez, Adolfo		Brgy. Harigi, Caluya, Antique	
 Antique	1	Sino, Taling		Culasi	
 Antique	1	Tabangay, Islaw		Brgy. Harigi, Caluya, Antique	
-Capiz	1				
 Capiz	1	Aguilar, Nono	24 / M	Roxas City	
-Region VII	5				
-Cebu	5				
 Cebu	1	Junior		Bantayan	
 Cebu	1	Baluntang, Joselito		San Carlos City	Fell from tugboat in Balamban
 Cebu	1	Casipong, Manuelito	35 / M	Talisay City	Reported to be drunk when he jumped in the river in Sitio Pangpang, Brgy. San Isidro, Talisay City, Cebu
 Cebu	1	Inot, Lenly		Bantayan	
 Cebu	1	Villarosa, Vicente	50 / M	Sta. Fe	
-Region VIII	1005				
-Eastern Samar	20				
 Eastern Samar	1	Alterado, Alona	14 / F	Victory, Guiuan	
 Eastern Samar	1	Alterado, Alyssa	10 / F	Victory, Guiuan	
 Eastern Samar	1	Alterado, Benmar	40 / M	Victory, Guiuan	
@@ -4199,7 +4104,6 @@ Eastern Samar	1	Bukid, Gio	2 / M	Victory, Guiuan
 Eastern Samar	1	Ignal, Rodulfo	8 mos / M	Victory, Guiuan	
 Eastern Samar	1	Sihere, Shirley	38 / F	Victory, Guiuan	
 Eastern Samar	4	Unidentified		Hernani	
-Leyte	931				
 Leyte	12	Unidentified		Albuera	
 Leyte	4	Unidentified		Barugo	
 Leyte	9	Unidentified		Dulag	
@@ -4208,7 +4112,6 @@ Leyte	136	Unidentified		Palo
 Leyte	4	Unidentified		Sta. Fe	
 Leyte	701	Unidentified		Tacloban City	
 Leyte	57	Unidentified		Tanauan	
-Samar	54				
 Samar	29	Unidentified		Basey	
 Samar	1	Grabillo, Edito	M	Basiao, Basey	
 Samar	1	Amante, Sonia	F	Palaypay, Basey	
@@ -4231,7 +4134,6 @@ Samar	1	Hapon	M	Salvacion, Basey
 Samar	1	Ocop, Aries	F	Salvacion, Basey	
 Samar	1	Ocop, Fedie	M	Salvacion, Basey	
 Samar	1	Ocop, Kiret	M	Salvacion, Basey	
-Samar					
 Samar	1	Paca anas, Wilmar	M	Salvacion, Basey	
 Samar	1	Palce, Librada	F	Salvacion, Basey	
 Samar	1	Quilitano, Jun  Jun	M	Salvacion, Basey	
