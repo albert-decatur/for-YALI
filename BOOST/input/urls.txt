@@ -1,0 +1,3 @@
+http://wbi.worldbank.org/boost/Data/boost/boostcms/files/field/country-attachments/seychelles_boost_v_1.1_2004_12_0.xlsx
+http://wbi.worldbank.org/boost/Data/boost/boostcms/files/field/country-attachments/togo_boost_v_1.2_2009-2013_en_0.xlsx
+http://wbi.worldbank.org/boost/Data/boost/boostcms/files/field/country-attachments/kenya_boost_v1.1_2002-2013_0.xlsx
