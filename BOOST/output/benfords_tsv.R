@@ -1,0 +1,6 @@
+args <- commandArgs(TRUE)
+pdf(args[2])
+library("ggplot2")
+df <- read.csv(args[1], sep="\t")
+benford = log10(df$leading_digit + 1) - log10(df$leading_digit + 0)
+ggplot(df,aes(x=df$leading_digit,y=df$percent_frequency))+geom_bar(stat="identity",fill="blue")+geom_line(aes(y=benford*100))+geom_point(aes(y=benford*100,size=df$ratio_to_benfords))+xlab("Leading Digit")+ylab("Percent Frequency")+ggtitle("Kenyan Budget 2002-2013:\n Frequency of Leading Digits Compared to Benford's Law")+scale_x_continuous(breaks=seq(1,9,by=1))
